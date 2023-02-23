@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 56px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 60px;
+}
